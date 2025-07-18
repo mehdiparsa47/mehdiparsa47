@@ -25,15 +25,7 @@
 
 ---
 
-### 📈 آمار فعالیت من در گیت‌هاب:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-parsa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-parsa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ---
 
