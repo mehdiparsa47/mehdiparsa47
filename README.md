@@ -25,6 +25,14 @@
 
 ---
 
+<p align="left">
+  <a href="https://www.instagram.com/mehdiparsa.official?utm_source=qr&igsh=amczbjcya2wxYnZj" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/programer_man?t=knxv61ghJNEKSvAga0eokw&s=35" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X"/>
+  </a>
+</p>
 
 
 ---
