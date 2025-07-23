@@ -16,8 +16,7 @@
 
 
 ---
-
-### 🛠️ تکنولوژی‌ها و ابزارهایی که استفاده می‌کنم:
+🛠️ Technologies and Tools I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -30,7 +29,7 @@
 
 ---
 
-### 📱 شبکه‌های اجتماعی من:
+📱 Find Me Online
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehdiparsa.official?utm_source=qr&igsh=amczbjcya2wxYnZj)
 [![Twitter (X)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/programer_man?t=knxv61ghJNEKSvAga0eokw&s=35)
