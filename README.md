@@ -1,14 +1,19 @@
-<h1 align="center">سلام، من مهدی هستم 👋</h1>
-<h3 align="center">عاشق کدهای تمیز و طراحی رابط کاربری زیبا</h3>
+<h1 align="center">Hi, I'm Mehdi 👋</h1>
+<h3 align="center">Turning clean code into beautiful experiences ✨</h3>
+
 
 ---
 
-### 👨‍💻 درباره من:
+👨‍💻 About Me
+💻 Back-End developer with experience in C# and ASP.NET
 
-- 💻 برنامه‌نویس Back-End با تجربه در C# و ASP.NET  
-- 🎨 مهارت در طراحی فرانت‌اند با HTML, CSS, و Bootstrap  
-- 📚 همیشه در حال یادگیری تکنولوژی‌های جدید و بهبود مهارت‌ها  
-- 🔍 تمرکز بر Clean Code و اصول معماری تمیز
+🎨 Skilled in front-end design using HTML, CSS, and Bootstrap
+
+📚 Always learning new technologies and improving my skills
+
+🔍 Focused on Clean Code and Clean Architecture principles
+
+
 
 ---
 
@@ -34,11 +39,13 @@
 
 ---
 
-### 🎯 اهدافم:
+🎯 My Goals
+🚀 Building real-world projects using Clean Architecture
 
-- ساخت پروژه‌های واقعی با معماری تمیز  
-- به‌اشتراک‌گذاری دانش و تجربه در حوزه‌ی .NET  
-- ساخت رزومه آنلاین و گسترش شبکه حرفه‌ای
+📚 Sharing knowledge and experience in the .NET ecosystem
+
+🌐 Creating an online resume and expanding my professional network
+
 
 ---
 
